@@ -13,7 +13,7 @@ let quotes = [
     quote: "The Pessimist Sees Difficulty In Every Opportunity. The Optimist Sees Opportunity In Every Difficulty.",
     source: "Winston Churchill",
     year: "1904",
-    tag: ", bussiness"
+    tag: ", business"
   },
   {
     quote: "Don’t Let Yesterday Take Up Too Much Of Today",
@@ -23,13 +23,13 @@ let quotes = [
   },
   {
     quote: "You Learn More From Failure Than From Success. Don’t Let It Stop You. Failure Builds Character",
-    source: "Uknown",
-    year: "Uknown"
+    source: "Unknown",
+    year: "Unknown"
   },
   {
     quote: "It’s Not Whether You Get Knocked Down, It’s Whether You Get Up.",
     source: "Vince Lombardi",
-    year: "Uknown"
+    year: "Unknown"
   },
   {
     quote: "If You Are Working On Something That You Really Care About, You Don’t Have To Be Pushed. The Vision Pulls You.",
